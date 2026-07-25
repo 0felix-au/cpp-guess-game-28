@@ -1,2 +1,4 @@
-# cpp-guess-game-28
+# Cpp Guess Game 28
+
 A classic number guessing game written in C++.
+
